@@ -1,6 +1,6 @@
 ﻿# Kodluyoruz Trendyol System_Infra Bootcamp Case 2 
 
-In this case  worked on deploying a Wordpress - MariaDb - Nginx Container via Ansible to destination server.
+In this case  I worked on deploying a Wordpress - MariaDb - Nginx Container via Ansible to destination server.
 
 
 # File Structure 
