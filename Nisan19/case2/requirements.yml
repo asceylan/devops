@@ -1,0 +1,9 @@
+---
+roles:
+  # Install a role from Ansible Galaxy.
+  - name: geerlingguy.docker
+    source: https://galaxy.ansible.com    
+  # Install a role from Ansible Galaxy.
+  - name: geerlingguy.pip
+    source: https://galaxy.ansible.com    
+
